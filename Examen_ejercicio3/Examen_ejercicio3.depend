@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1495428566 source:d:\proyectos c++\examen_ejercicio3\main.cpp
+	<iostream>
+	"Correo.h"
+
+1495428388 source:d:\proyectos c++\examen_ejercicio3\src\mensajecorreo.cpp
+	"MensajeCorreo.h"
+	<cstring>
+	<iostream>
+
+1495424083 d:\proyectos c++\examen_ejercicio3\include\mensajecorreo.h
+
+1495428588 source:d:\proyectos c++\examen_ejercicio3\src\correo.cpp
+	"Correo.h"
+	<cstring>
+	"iostream"
+
+1495427879 d:\proyectos c++\examen_ejercicio3\include\correo.h
+	"MensajeCorreo.h"
+
